@@ -18,7 +18,7 @@ body{
 }
 
 #objetivo{
-    background-image: url(../img/dardos.jpg);
+    background-image: url(dardos.jpg);
     width: 100px;
     height: 100px;
     background-size: contain;
